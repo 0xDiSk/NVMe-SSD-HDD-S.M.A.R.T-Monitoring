@@ -2,10 +2,11 @@
 NVMe/SSD/HDD S.M.A.R.T Monitoring. 
 
 Check the script hashes:
+```
 wget -qO- https://disk.lol/smart.sh | md5sum | awk '{print $1}'
 wget -qO- https://disk.lol/smart-test.sh | md5sum | awk '{print $1}'
 wget -qO- https://disk.lol/verify-and-run.sh | md5sum | awk '{print $1}'
-
+```
 |Script|Hash|
 |---|--:|
 smart.sh|418b2e9c8a6c4cf9ca439734961f88e6
