@@ -1,5 +1,5 @@
 #!/bin/sh
-hash="418b2e9c8a6c4cf9ca439734961f88e6"
+hash="3d1ba123dbf250d0c62ac94914a5b92e"
 disk="wget -qO- https://disk.lol/"
 
 if test -z "$($disk | grep -h $hash)"; then
