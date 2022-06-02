@@ -45,7 +45,7 @@ fi
 for disk in $(smartctl --scan|cut -d ' ' -f1) ; do
 smart=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)
 smartctl -a $disk -v 1,raw24/raw32 -v 7,raw24/raw32 > $smart
-if egrep "MegaRaid" $smart
+if egrep "ServeRAID|MegaRaid" $smart
 then
 smartctl --scan|cut -d '#' -f1|cut -d "," -f2| cut -d " " -f1 > megaraid.txt
 for N in $(cat megaraid.txt) ; do
