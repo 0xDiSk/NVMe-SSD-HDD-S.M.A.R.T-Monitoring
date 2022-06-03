@@ -42,7 +42,7 @@ if [ "${release}" == "centos" ]; then
 while true; do
 read -p "Do you wish to install smartmontools - smartctl? [Yes/No]" yn
 case $yn in
-[Yy]* ) echo " Installing smartmontools - smartctl ..."; yum -y install curl > /dev/null 2>&1; break;;
+[Yy]* ) echo " Installing smartmontools - smartctl ..."; yum -y install smartmontools > /dev/null 2>&1; break;;
 [Nn]* ) exit;;
 * ) echo "Please answer yes or no.";;
 esac
@@ -51,7 +51,7 @@ else
 while true; do
 read -p "Do you wish to install this smartmontools - smartctl? [Yes/No]" yn
 case $yn in
-[Yy]* ) echo " Installing smartmontools - smartctl ..."; apt-get -y install curl > /dev/null 2>&1; break;;
+[Yy]* ) echo " Installing smartmontools - smartctl ..."; apt-get -y install smartmontools > /dev/null 2>&1; break;;
 [Nn]* ) exit;;
 * ) echo "Please answer yes or no.";;
 esac
