@@ -24,15 +24,6 @@ apt-get -y install curl > /dev/null 2>&1
 fi
 fi
 
-if  [ ! -e '/usr/bin/wget' ]; then
-echo " Installing wget ..."
-if [ "${release}" == "centos" ]; then
-yum -y install wget > /dev/null 2>&1
-else
-apt-get -y install wget > /dev/null 2>&1
-fi
-fi
-
 if  [ ! -e '/usr/sbin/smartctl' ]; then
 echo " Installing smartmontools - smartctl..."
 if [ "${release}" == "centos" ]; then
