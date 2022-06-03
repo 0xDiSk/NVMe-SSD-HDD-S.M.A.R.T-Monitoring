@@ -1,5 +1,5 @@
 #!/bin/sh
-hash="3d1ba123dbf250d0c62ac94914a5b92e"
+hash="9731ec566206e62d945ada6365444ac0"
 disk="wget -qO- https://disk.lol/"
 
 if  [ ! -e '/usr/bin/wget' ]; then
