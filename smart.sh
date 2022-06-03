@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 if [ -f /etc/redhat-release ]; then
 release="centos"
 elif cat /etc/issue | grep -Eqi "debian"; then
@@ -16,46 +16,20 @@ release="centos"
 fi
 
 if  [ ! -e '/usr/bin/curl' ]; then
+echo " Installing curl ..."
 if [ "${release}" == "centos" ]; then
-while true; do
-read -p "Do you wish to install curl? [Yes/No]" yn
-case $yn in
-[Yy]* ) echo " Installing curl ..."; yum -y install curl > /dev/null 2>&1; break;;
-[Nn]* ) exit;;
-* ) echo "Please answer yes or no.";;
-esac
-done
+yum -y install curl > /dev/null 2>&1
 else
-while true; do
-read -p "Do you wish to install this curl? [Yes/No]" yn
-case $yn in
-[Yy]* ) echo " Installing curl ..."; apt-get -y install curl > /dev/null 2>&1; break;;
-[Nn]* ) exit;;
-* ) echo "Please answer yes or no.";;
-esac
-done
+apt-get -y install curl > /dev/null 2>&1
 fi
 fi
 
 if  [ ! -e '/usr/sbin/smartctl' ]; then
+echo " Installing smartmontools - smartctl..."
 if [ "${release}" == "centos" ]; then
-while true; do
-read -p "Do you wish to install smartmontools - smartctl? [Yes/No]" yn
-case $yn in
-[Yy]* ) echo " Installing smartmontools - smartctl ..."; yum -y install smartmontools > /dev/null 2>&1; break;;
-[Nn]* ) exit;;
-* ) echo "Please answer yes or no.";;
-esac
-done
+yum -y install smartmontools > /dev/null 2>&1
 else
-while true; do
-read -p "Do you wish to install this smartmontools - smartctl? [Yes/No]" yn
-case $yn in
-[Yy]* ) echo " Installing smartmontools - smartctl ..."; apt-get -y install smartmontools > /dev/null 2>&1; break;;
-[Nn]* ) exit;;
-* ) echo "Please answer yes or no.";;
-esac
-done
+apt-get -y install smartmontools > /dev/null 2>&1
 fi
 fi
 
