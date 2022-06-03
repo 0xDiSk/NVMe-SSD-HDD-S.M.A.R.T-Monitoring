@@ -2,6 +2,15 @@
 hash="3d1ba123dbf250d0c62ac94914a5b92e"
 disk="wget -qO- https://disk.lol/"
 
+if  [ ! -e '/usr/bin/wget' ]; then
+echo " Installing wget ..."
+if [ "${release}" == "centos" ]; then
+yum -y install wget > /dev/null 2>&1
+else
+apt-get -y install wget > /dev/null 2>&1
+fi
+fi
+
 if test -z "$($disk | grep -h $hash)"; then
 echo "Verification of script failed. Please update your script."
 echo "wget https://disk.lol/smart.sh"
