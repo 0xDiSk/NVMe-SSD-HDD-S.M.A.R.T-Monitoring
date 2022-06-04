@@ -1,6 +1,8 @@
 #!/bin/sh
 hash="9731ec566206e62d945ada6365444ac0"
 disk="wget -qO- https://disk.lol/"
+hash_github="9731ec566206e62d945ada6365444ac0"
+disk_github="wget -qO- https://raw.githubusercontent.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/main/README.md"
 
 if [ -f /etc/redhat-release ]; then
 release="centos"
@@ -27,7 +29,7 @@ apt-get -y install wget > /dev/null 2>&1
 fi
 fi
 
-if test -z "$($disk | grep -h $hash)"; then
+if test -z "$($disk | grep -h $hash)" || test -z "$($disk_github | grep -h $hash_github)"; then
 echo "Error: Verification of script failed - update your script."
 echo "Please download manually smart.sh script - https://disk.lol/smart.sh"
 else
