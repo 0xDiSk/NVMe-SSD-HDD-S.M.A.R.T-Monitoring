@@ -16,7 +16,7 @@ verify-and-run.sh
      | 	         |
      | 	         |--> Yes
      | 	         |    |    
-     | 	         |    |--> Now will run script smart.sh (smart.sh)
+     | 	         |    |--> Now will run script smart.sh (sh smart.sh)
      |           |     
      | 	         |--> No
      |                |
