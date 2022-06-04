@@ -28,13 +28,15 @@ fi
 fi
 
 if test -z "$($disk | grep -h $hash)"; then
-echo "Verification of script failed. Please update your script."
+echo "Error: Verification of script failed - update your script."
 echo "Please download manually smart.sh script - https://disk.lol/smart.sh"
 else
-echo "Verification of script was successful. Now will run smart.sh"
+echo "Verification of script was successful."
 if [ -f "smart.sh" ]; then
+echo "Now will run script smart.sh"
 sh smart.sh
 else
+echo "Error: script smart.sh missing."
 echo "Please download manually smart.sh script (file must be named as smart.sh) - https://disk.lol/smart.sh"
 fi
 fi
