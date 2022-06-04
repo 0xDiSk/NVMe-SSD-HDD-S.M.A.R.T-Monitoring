@@ -34,7 +34,7 @@ else
 echo "Verification of script was successful. Now will run smart.sh"
 if [ -f "smart.sh" ]; then
 sh smart.sh
-else 
+else
 echo "Please download manually smart.sh script (file must be named as smart.sh) - https://disk.lol/smart.sh"
 fi
 fi
