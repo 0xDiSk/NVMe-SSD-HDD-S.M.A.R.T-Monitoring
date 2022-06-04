@@ -3,7 +3,7 @@ verify-and-run.sh
 |--> Check if wget is installed
 |    |
 |    |--> Yes - continue
-|    |--> No  - automatically install wget
+|    |--> No  - automatically install wget and continue
 |
 |--> Check & Verify verify-and-run.sh
      |        
