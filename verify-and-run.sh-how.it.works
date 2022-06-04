@@ -1,0 +1,32 @@
+```
+verify-and-run.sh
+|
+|--> Check if wget is installed
+|    |
+|	   |--> Yes - continue
+|	   |--> No  - automatically install wget
+|
+|--> Check & Verify verify-and-run.sh
+     |        
+   |-|--> If the hash of script.sh is the same as defined in script verify-and-run.sh
+   |-|--> If the hashes on disk.lol and github.com sites are the same as defined in script verify-and-run.sh
+   | |
+   | |--> Verification of script was successful
+   |      |
+   | 	    |--> Check if script smart.sh exisits
+   | 	         |
+   | 		       |--> Yes
+   | 		       |    |
+   | 		       |	  |--> Now will run script smart.sh (smart.sh)
+   |           |
+   | 		       |--> No
+   | 		            |
+   | 			          |--> Error: script smart.sh missing.
+   |                     Please download manually smart.sh script (file must be named as smart.sh) - https://disk.lol/smart.sh
+   | 				   
+   |
+   |--> Verification of script failed
+	    |
+	    | --> Error: Verification of script failed - update your script.
+		        Please download manually smart.sh script - https://disk.lol/smart.sh
+```
