@@ -5,7 +5,7 @@ verify-and-run.sh
 |    |--> Yes - continue
 |    |--> No  - automatically install wget and continue
 |
-|--> Check & Verify verify-and-run.sh
+|--> Check & Verify & Run smart.sh script
      |        
      |-|--> If the hash of script.sh is the same as defined in script verify-and-run.sh
      |-|--> If the hashes on disk.lol and github.com sites are the same as defined in script verify-and-run.sh
