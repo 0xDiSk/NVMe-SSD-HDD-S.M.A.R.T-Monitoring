@@ -11,4 +11,4 @@ wget -qO- https://disk.lol/verify-and-run.sh | md5sum | awk '{print $1}'
 |---|--:|
 smart.sh|9731ec566206e62d945ada6365444ac0
 smart-test.sh|6bc155992975d2a50046d0ad2cb6b7c4
-verify-and-run.sh|f51dfc388051af3869e6d47e304a3df7
+verify-and-run.sh|71e9d423a8c9a6e6f2454ee0fb2f95f7
