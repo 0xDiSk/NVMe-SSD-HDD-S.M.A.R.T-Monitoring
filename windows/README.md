@@ -24,7 +24,7 @@ Create script smart.bat:
 
 Create script curl.bat:
 ```
-%CD%\curl\curl-7.83.1_3-win64-mingw\bin\curl.exe -F smart=@sda.txt "https://disk.lol/api?disk=/dev/sda/"
+%CD%\curl\bin\curl.exe -F smart=@sda.txt "https://disk.lol/api?disk=/dev/sda/"
 pause
 ```
 
