@@ -19,7 +19,7 @@ Before you start creating scripts change according to your drive.
 
 Create script smart.bat:
 ```
-%CD%\smartctl.exe -a /dev/sda > e:\smart\sda.txt
+%CD%\smartctl.exe -a /dev/sda > x:\smart\sda.txt
 ```
 
 Create script curl.bat:
