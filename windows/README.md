@@ -13,6 +13,15 @@ Install smartmontools
 Copy c:\Program Files\smartmontools\bin\smartctl.exe to some new location, in our case it was x:\smart\
 ```
 
+Example of paths:
+```
+Main path => x:\smart\
+Curl path => x:\smart\curl\bin\curl.exe
+Smartctl path => x:\smart\smartctl.exe
+Smartctl script path => x:\smart\smart.bat
+Smartctl curl path => x:\smart\curl.bat
+```
+
 Before you start creating scripts change according to your drive.
 - Output is written to sda.txt file.
 - smartctl.exe will generate S.M.A.R.T data for /dev/sda disk
