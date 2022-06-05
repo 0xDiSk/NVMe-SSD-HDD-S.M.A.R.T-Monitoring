@@ -12,7 +12,7 @@ verify-and-run.sh
      | |
      | |--> Verification of script was successful
      |      |
-     | 	    |--> Check if script smart.sh exisits
+     | 	    |--> Check if script smart.sh exists
      | 	         |
      | 	         |--> Yes
      | 	         |    |    
