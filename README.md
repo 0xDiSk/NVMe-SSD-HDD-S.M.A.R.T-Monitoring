@@ -4,7 +4,7 @@
 ***❤️ Thanks goes to:***
 |👨👩 Who|❓ Why|
 |---|--:|
-@Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping ou with megaraid hardware raid test.
+@Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping ou with megaraid and serveraid hardware raid test.
 @Everyone| Everyone who tests the scripts.
 
 ***✅ Check the script hashes:***
