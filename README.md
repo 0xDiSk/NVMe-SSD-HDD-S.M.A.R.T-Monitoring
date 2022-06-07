@@ -5,7 +5,7 @@
 |👨👩 Who|❓ Why|
 |---|--:|
 @Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping out with megaraid and serveraid hardware raid test.
-@Everyone| Everyone who tests the scripts.
+@Everyone| Everyone who tests the scripts and site.
 
 
 ***❓ Does it works?***
