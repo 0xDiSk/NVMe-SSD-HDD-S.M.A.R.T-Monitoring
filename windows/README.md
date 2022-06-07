@@ -39,7 +39,7 @@ Curl script path => x:\smart\curl.bat
 pause
 ```
 
-➡️ 💡 Run scripts:
+➡️ Run scripts:
 ```
 smart.bat
 curl.bat
