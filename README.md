@@ -1,8 +1,8 @@
 # NVMe-SSD-HDD-S.M.A.R.T-Monitoring
-🚀NVMe/SSD/HDD S.M.A.R.T Monitoring. 
+🚀NVMe/SSD/🖴HDD S.M.A.R.T Monitoring. 
 
 ***❤️ Thanks goes to:***
-|Who|Why|
+|👨👩 Who|❓ Why|
 |---|--:|
 @Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping ou with megaraid hardware raid test.
 @Everyone| Everyone who tests the scripts.
@@ -13,7 +13,7 @@ wget -qO- https://disk.lol/smart.sh | md5sum | awk '{print $1}'
 wget -qO- https://disk.lol/smart-test.sh | md5sum | awk '{print $1}'
 wget -qO- https://disk.lol/verify-and-run.sh | md5sum | awk '{print $1}'
 ```
-|Script|Hash|
+|⚙️ Script|#️⃣ Hash|
 |---|--:|
 smart.sh|9731ec566206e62d945ada6365444ac0
 smart-test.sh|6bc155992975d2a50046d0ad2cb6b7c4
@@ -23,7 +23,7 @@ verify-and-run.sh|de1247ce317629975f217bb49d4657ba
 ***✅ Virus check:***
 100 % Clean source code - "No security vendors flagged this URL as malicious"
 
-|Script|Url to verify|
+|⚙️ Script|📄 Url to verify|
 |---|--:|
 disk.lol|https://www.virustotal.com/gui/url/ed36c768c961b2e7d62b1560fb3eeb0ce8267a73dc1f24ebb46e4619c0f3dc71
 disk.lol/smart.sh|https://www.virustotal.com/gui/url/b8911829e94fd0b1347e1405484bc7c227249fe2968e7ecb473929775596abcc
