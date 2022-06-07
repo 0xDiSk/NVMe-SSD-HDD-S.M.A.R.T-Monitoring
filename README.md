@@ -1,11 +1,21 @@
 # NVMe-SSD-HDD-S.M.A.R.T-Monitoring
-🚀NVMe/SSD/🖴HDD S.M.A.R.T Monitoring. 
+🚀 NVMe / 🚀 SSD / 🖴 HDD S.M.A.R.T Monitoring. 
 
 ***❤️ Thanks goes to:***
 |👨👩 Who|❓ Why|
 |---|--:|
 @Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping out with megaraid and serveraid hardware raid test.
 @Everyone| Everyone who tests the scripts.
+
+
+***❓ Does it works?***
+|🖴 Type of disk|❓ Generate S.M.A.R.T data|❓ Send to api|❓ Temperature|❓ Hidden Serial Number
+|---|---|---|---|--:|
+HDD|✅|✅|✅|✅|✅
+SSD|✅|✅|✅|✅|✅
+NVMe|✅|✅|✅|✅|✅
+MegaRaid|✅|✅|✅|✅|✅
+ServeRAID|✅|✅|✅|✅|✅
 
 ***✅ Check the script hashes:***
 ```
