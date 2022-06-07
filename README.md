@@ -9,7 +9,7 @@
 
 
 ***❓ Does it works?***
-|🖴 Type of disk or raid|❓ Generate S.M.A.R.T data|❓ Send to api|❓ Temperature|❓ Hidden Serial Number
+|🖴 Type of disk or raid|❓ Generate S.M.A.R.T data|❓ Send to api|❓ Temperature Chart|❓ Hidden Serial Number
 |---|---|---|---|--:|
 HDD|✅|✅|✅|✅|✅
 SSD|✅|✅|✅|✅|✅
