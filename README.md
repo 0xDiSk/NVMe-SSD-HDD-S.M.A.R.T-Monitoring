@@ -12,9 +12,13 @@ VirusTotal checked:
 Ubuntu/Debian/CentOS:
 wget -qO- https://disk.lol/smart.sh | sh
 or
+wget -qO- https://diskcheck.co/smart.sh | sh
+or
 wget -qO- https://raw.githubusercontent.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/main/smart.sh | sh
 or
 wget -qO- https://disk.lol/verify-and-run.sh | sh
+or
+wget -qO- https://diskcheck.co/verify-and-run.sh | sh
 or
 wget -qO- https://raw.githubusercontent.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/main/verify-and-run.sh | sh
 
@@ -57,7 +61,11 @@ ServeRAID|✅|✅|✅|✅|❌
 wget -qO- https://disk.lol/smart.sh | md5sum | awk '{print $1}'
 wget -qO- https://disk.lol/smart-test.sh | md5sum | awk '{print $1}'
 wget -qO- https://disk.lol/verify-and-run.sh | md5sum | awk '{print $1}'
+wget -qO- https://diskcheck.co/smart.sh | md5sum | awk '{print $1}'
+wget -qO- https://diskcheck.co/smart-test.sh | md5sum | awk '{print $1}'
+wget -qO- https://diskcheck.co/verify-and-run.sh | md5sum | awk '{print $1}'
 ```
+
 |⚙️ Script|#️⃣ Hash|
 |---|--:|
 smart.sh|165a81577b6237d09796e543d0a3a712
