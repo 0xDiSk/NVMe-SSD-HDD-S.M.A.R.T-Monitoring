@@ -35,7 +35,7 @@ Curl script path => x:\smart\curl.bat
 
 📝 Create script curl.bat:
 ```
-%CD%\curl\bin\curl.exe -F smart=@sda.txt "https://disk.lol/api?disk=/dev/sda/"
+%CD%\curl\bin\curl.exe -F smart=@sda.txt "https://diskcheck.co/api?disk=/dev/sda/"
 pause
 ```
 
