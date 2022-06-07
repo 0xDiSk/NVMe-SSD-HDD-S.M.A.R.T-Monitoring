@@ -16,7 +16,7 @@ Windows:
 https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/tree/main/windows
 ```
 
-***❓ What are requirements to run the scripts?***
+***❓ What are the requirements to run the scripts?***
 ```
 Ubuntu/Debian/CentOS:
 - Curl
