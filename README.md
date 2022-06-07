@@ -7,7 +7,7 @@
 @Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping out with megaraid and serveraid hardware raid test.
 @Everyone| Everyone who tests the scripts and site.
 
-***❓ Why disk.lol domain maname and extension?***
+***❓ Why disk.lol domain name and extension?***
 Well it was simple for us. The domain name is short. The domain name was relative cheap. The domain name has domain info privacy.
 
 ***❓ Does it works?***
