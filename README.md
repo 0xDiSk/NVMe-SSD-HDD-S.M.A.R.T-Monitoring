@@ -5,7 +5,7 @@ NVMe/SSD/HDD S.M.A.R.T Monitoring.
 |Who|Why|
 |---|--:|
 @Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping ou with megaraid hardware raid test.
-Everyone| Everyone who tests the scripts.
+@Everyone| Everyone who tests the scripts.
 
 ***Check the script hashes:***
 ```
