@@ -82,6 +82,10 @@ disk.lol|https://www.virustotal.com/gui/url/ed36c768c961b2e7d62b1560fb3eeb0ce826
 disk.lol/smart.sh|https://www.virustotal.com/gui/url/b8911829e94fd0b1347e1405484bc7c227249fe2968e7ecb473929775596abcc
 disk.lol/smart-test.sh|https://www.virustotal.com/gui/url/6c84dfd510d55eb21360b28876a73740e96e41abad99a692ea3f1aa996fa6940
 disk.lol/verify-and-run.sh|https://www.virustotal.com/gui/url/c6402b85a9753e3c988870ee2d54019453e0ad41afcd773f0052158034fa3f29
+diskcheck.co|https://www.virustotal.com/gui/url/84d9caef363d9b494ced0ad8f99f86ff34db7dac75488b86d0e30ca65ca29d49
+diskcheck.co/smart.sh|https://www.virustotal.com/gui/url/56ec5548a94245caded3c62b797ca1f05c174eea71a4b924ced7c0c4e1054c8a
+diskcheck.co/smart-test.sh|https://www.virustotal.com/gui/url/3d8b4a8e8b869d33a2d28d4b6063dad16c0d546edfdea5bdbbcbdfb19ad91f3e
+diskcheck.co/verify-and-run.sh|https://www.virustotal.com/gui/url/986fb1ea6915e6fd5b1cad0b940f65517d491f5d52d5176ceb63862fc6486fd7
 github raw smart.sh|https://www.virustotal.com/gui/url/e1b74e82688c8190e9192c4699cbe6b9cc23c16b35fa49579918b0129ed82e75
 github raw smart-test.sh|https://www.virustotal.com/gui/url/f6110301df8cd009d04392e0a6aa04cce32857c8e8a51d5e851c10a029b08027
 github raw verify-and-run.sh|https://www.virustotal.com/gui/url/be6524676e2e8251f74db150e371b9db3d87a708fd7692eb715a221f5246eb5f
