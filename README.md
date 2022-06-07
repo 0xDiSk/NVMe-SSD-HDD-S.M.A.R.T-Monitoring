@@ -1,6 +1,12 @@
 # NVMe-SSD-HDD-S.M.A.R.T-Monitoring
 NVMe/SSD/HDD S.M.A.R.T Monitoring. 
 
+***❤️ Thanks goes to:***
+|Who|Why|
+|---|--:|
+@Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping ou with megaraid hardware raid test.
+Everyone| Everyone who tests the scripts.
+
 ***Check the script hashes:***
 ```
 wget -qO- https://disk.lol/smart.sh | md5sum | awk '{print $1}'
