@@ -5,6 +5,7 @@
 VirusTotal checked:
 ☣️ Site and scripts: without malware code!
 ☢️ Site and scripts: without virus code!
+✅ 100 % Clean source code!
 ```
 
 ***❓ How to use the scripts?***
