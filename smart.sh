@@ -36,12 +36,16 @@ fi
 for disk in $(smartctl --scan|cut -d ' ' -f1) ; do
 smart=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)
 smartctl -a $disk -v 1,raw24/raw32 -v 7,raw24/raw32 > $smart
+serialnumber=$(cat $smart | grep "Serial" | head -n 1 | awk '{print $3}')
+sed -i "s/$serialnumber/Hidden/g" $smart
 if egrep "ServeRAID|MegaRaid" $smart
 then
 smartctl --scan|cut -d '#' -f1|cut -d "," -f2| cut -d " " -f1 > megaraid.txt
 for N in $(cat megaraid.txt) ; do
 echo "Generating S.M.A.R.T for disk (MegaRaid): " $disk,$N
 smartctl -a -v 1,raw24/raw32 -v 7,raw24/raw32 -d megaraid,$N $disk > $smart
+serialnumber=$(cat $smart | grep "Serial" | head -n 1 | awk '{print $3}')
+sed -i "s/$serialnumber/Hidden/g" $smart
 curl -F smart=@$smart https://disk.lol/api?disk=$disk.$N
 rm $smart
 done
