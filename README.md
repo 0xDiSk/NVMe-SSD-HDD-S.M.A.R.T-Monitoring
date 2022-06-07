@@ -1,6 +1,21 @@
 # NVMe-SSD-HDD-S.M.A.R.T-Monitoring
 🚀 NVMe / 🚀 SSD / 🖴 HDD S.M.A.R.T Monitoring. 
 
+***❓ How to use?***
+```
+Ubuntu/Debian/CentOS:
+wget -qO- https://disk.lol/smart.sh | sh
+or
+wget -qO- https://raw.githubusercontent.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/main/smart.sh | sh
+or
+wget -qO- https://disk.lol/verify-and-run.sh | sh
+or
+https://raw.githubusercontent.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/main/verify-and-run.sh
+
+Windows:
+https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/tree/main/windows
+```
+
 ***❤️ Thanks goes to:***
 |👨👩 Who|❓ Why|
 |---|--:|
