@@ -1,7 +1,7 @@
 # NVMe-SSD-HDD-S.M.A.R.T-Monitoring
 🚀 NVMe / 🚀 SSD / 🖴 HDD S.M.A.R.T Monitoring. 
 
-***❓ How to use?***
+***❓ How to use the scripts?***
 ```
 Ubuntu/Debian/CentOS:
 wget -qO- https://disk.lol/smart.sh | sh
