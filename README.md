@@ -88,6 +88,13 @@ Pingdom|https://tools.pingdom.com/#604f5f0edd400000|DE|435ms
 GTmetrix|https://gtmetrix.com/reports/disk.lol/csVVp3H5/|UK|194ms
 PageSpeed|https://pagespeed.web.dev/report?url=https%3A%2F%2Fdisk.lol%2F&form_factor=desktop|?|200ms
 
+***⛔ Is your site disk.lol blacklisted?***
+|⚙️ Service|📄 Url to test|❓ Blacklisted|❓ 100% Clean - NOT Blacklisted
+|---|---|---|--:|
+MultiRBL|https://multirbl.valli.org/lookup/disk.lol.html|❌|✅
+SpamHaus|https://check.spamhaus.org/not_listed/?searchterm=disk.lol|❌|✅
+MXToolBox|https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3adisk.lol&run=toolpage|❌|✅
+
 ***💾 Archived scripts and sites:***
 |⚙️ Service|📄 Url|⚙️ Script or Site
 |---|---|--:|
