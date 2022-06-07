@@ -25,9 +25,9 @@ wget -qO- https://disk.lol/verify-and-run.sh | md5sum | awk '{print $1}'
 ```
 |⚙️ Script|#️⃣ Hash|
 |---|--:|
-smart.sh|9731ec566206e62d945ada6365444ac0
+smart.sh|165a81577b6237d09796e543d0a3a712
 smart-test.sh|6bc155992975d2a50046d0ad2cb6b7c4
-verify-and-run.sh|de1247ce317629975f217bb49d4657ba
+verify-and-run.sh|4f702243fb8e486982abf6f38d143780
 
 
 ***✅ Virus check:***
