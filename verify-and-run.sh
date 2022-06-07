@@ -1,7 +1,7 @@
 #!/bin/sh
-hash="9731ec566206e62d945ada6365444ac0"
+hash="af6dbd082d7bca2a7cfb9e7d2fce420a"
 disk="wget -qO- https://diskcheck.co/"
-hash_github="9731ec566206e62d945ada6365444ac0"
+hash_github="af6dbd082d7bca2a7cfb9e7d2fce420a"
 disk_github="wget -qO- https://raw.githubusercontent.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/main/README.md"
 
 if [ -f /etc/redhat-release ]; then
