@@ -11,11 +11,11 @@
 ***❓ Does it works?***
 |🖴 Type of disk or raid|❓ Generate S.M.A.R.T data|❓ Send to api|❓ Temperature Chart|❓ Hidden Serial Number|❓ Serial Number sent over api
 |---|---|---|---|---|--:|
-HDD|✅|✅|✅|✅|✅|❌
-SSD|✅|✅|✅|✅|✅|❌
-NVMe|✅|✅|✅|✅|✅|❌
-MegaRaid|✅|✅|✅|✅|✅|❌
-ServeRAID|✅|✅|✅|✅|✅|❌
+HDD|✅|✅|✅|✅|❌
+SSD|✅|✅|✅|✅|❌
+NVMe|✅|✅|✅|✅|❌
+MegaRaid|✅|✅|✅|✅|❌
+ServeRAID|✅|✅|✅|✅|❌
 
 ***✅ Check the script hashes:***
 ```
