@@ -44,3 +44,10 @@ github raw smart-test.sh|https://www.virustotal.com/gui/url/f6110301df8cd009d043
 github raw verify-and-run.sh|https://www.virustotal.com/gui/url/be6524676e2e8251f74db150e371b9db3d87a708fd7692eb715a221f5246eb5f
 github raw README.md| https://www.virustotal.com/gui/url/62ae953bfb4c531fdcb7d268369ac610ade6a46209b84c153a54877dc18d018c
 github raw windows README.md|https://www.virustotal.com/gui/url/11097db574e0716a6df2dea9434b4ba0834a961d72864cb8b769b92ba7a75318
+
+***🛸 Optimized page speed:***
+|⚙️ Service|📄 Url to test|🌍 Tested from|🚀 Speed
+|---|---|---|--:|
+Pingdom|https://tools.pingdom.com/#604f5f0edd400000|DE|435ms
+GTmetrix|https://gtmetrix.com/reports/disk.lol/csVVp3H5/|UK|194ms
+PageSpeed|https://pagespeed.web.dev/report?url=https%3A%2F%2Fdisk.lol%2F&form_factor=desktop|?|200 ms
