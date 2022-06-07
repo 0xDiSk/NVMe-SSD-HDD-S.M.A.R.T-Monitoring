@@ -46,13 +46,13 @@ echo "Generating S.M.A.R.T for disk (MegaRaid): " $disk,$N
 smartctl -a -v 1,raw24/raw32 -v 7,raw24/raw32 -d megaraid,$N $disk > $smart
 serialnumber=$(cat $smart | grep "Serial" | head -n 1 | awk '{print $3}')
 sed -i "s/$serialnumber/Hidden/g" $smart
-curl -F smart=@$smart https://disk.lol/api?disk=$disk.$N
+curl -F smart=@$smart https://diskcheck.co/api?disk=$disk.$N
 rm $smart
 done
 rm megaraid.txt
 else
 echo "Generating S.M.A.R.T for disk: " $disk
-curl -F smart=@$smart https://disk.lol/api?disk=$disk
+curl -F smart=@$smart https://diskcheck.co/api?disk=$disk
 fi
 rm $smart
 done
