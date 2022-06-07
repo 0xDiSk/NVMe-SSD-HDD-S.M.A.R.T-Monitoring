@@ -57,7 +57,7 @@ PageSpeed|https://pagespeed.web.dev/report?url=https%3A%2F%2Fdisk.lol%2F&form_fa
 |---|---|--:|
 WayBack Machine|[https://web.archive.org/web/*/https://disk.lol/](https://web.archive.org/web/*/https://disk.lol/)|disk.lol
 WayBack Machine|[https://web.archive.org/web/*/https://disk.lol/smart.sh](https://web.archive.org/web/*/https://disk.lol/smart.sh)|smart.sh
-WayBack Machine|[https://web.archive.org/web/*/https://disk.lol/smart-test.sh|](https://web.archive.org/web/*/https://disk.lol/smart-test.sh|)smart-test.sh
+WayBack Machine|[https://web.archive.org/web/*/https://disk.lol/smart-test.sh](https://web.archive.org/web/*/https://disk.lol/smart-test.sh|)|smart-test.sh
 WayBack Machine|[https://web.archive.org/web/*/https://disk.lol/verify-and-run.sh](https://web.archive.org/web/*/https://disk.lol/verify-and-run.sh)|verify-and-run.sh
 Archive.Today|https://archive.ph/disk.lol|disk.lol
 Archive.Today|https://archive.ph/ncMRu|smart.sh
