@@ -2,11 +2,9 @@
 🚀 NVMe / 🚀 SSD / 🖴 HDD S.M.A.R.T Monitoring. 
 
 ```
-**
 VirusTotal checked:
 ☣️ Site and scripts: without malware code!
 ☢️ Site and scripts: without virus code!
-**
 ```
 
 ***❓ How to use the scripts?***
