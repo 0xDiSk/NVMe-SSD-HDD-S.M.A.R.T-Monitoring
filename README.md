@@ -1,6 +1,6 @@
 # 🛸 NVMe / 🚀 SSD / 🖴 HDD S.M.A.R.T Monitoring. 
 
-[![Codacy Security Scan](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml) [![DevSkim](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml) [![Test diskcheck.co for publicly known js vulnerabilities](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/is-website-vulnerable-diskcheck.co.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/is-website-vulnerable-diskcheck.co.yml) [![Test disk.lol for publicly known js vulnerabilities](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/is-website-vulnerable-disk.lol.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/is-website-vulnerable-disk.lol.yml)
+[![Codacy Security Scan](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml) [![DevSkim](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml)
 
 ```
 VirusTotal checked:
