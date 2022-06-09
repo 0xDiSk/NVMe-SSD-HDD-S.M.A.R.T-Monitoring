@@ -109,7 +109,6 @@ github raw verify-and-run.sh|https://www.virustotal.com/gui/url/be6524676e2e8251
 github raw smartmontool-build.sh|https://www.virustotal.com/gui/url/f3bd481f1ab75abb9d8abc850c9b26008dcb6c4f16cf996baae6756ba803b0dc
 github raw README.md| https://www.virustotal.com/gui/url/62ae953bfb4c531fdcb7d268369ac610ade6a46209b84c153a54877dc18d018c
 github raw windows README.md|https://www.virustotal.com/gui/url/11097db574e0716a6df2dea9434b4ba0834a961d72864cb8b769b92ba7a75318
-github raw |https://www.virustotal.com/gui/url/11097db574e0716a6df2dea9434b4ba0834a961d72864cb8b769b92ba7a75318
 
 ***🛸 Optimized page speed:***
 |⚙️ Service|📄 Url to test|🌍 Tested from|🚀 Speed
