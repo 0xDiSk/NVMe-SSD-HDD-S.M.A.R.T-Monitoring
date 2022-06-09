@@ -1,4 +1,4 @@
-name: Test disk.lol for publicly known js vulnerabilities
+name: Test diskcheck.co for publicly known js vulnerabilities
 
 on: push
 jobs:
