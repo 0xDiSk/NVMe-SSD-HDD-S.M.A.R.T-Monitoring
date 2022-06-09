@@ -1,5 +1,7 @@
 # 🛸 NVMe / 🚀 SSD / 🖴 HDD S.M.A.R.T Monitoring. 
 
+[![Codacy Security Scan](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml)
+
 ```
 VirusTotal checked:
 ☣️ Site and scripts: without malware code!
