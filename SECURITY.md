@@ -19,3 +19,11 @@ Which domain names do you currently own?
 | ------- | ------------------ |
 | disk.lol | :white_check_mark: |
 | diskcheck.co | :white_check_mark: |
+
+## Is your code clean without viruses and malwares?
+```
+VirusTotal checked:
+☣️ Site and scripts: without malware code!
+☢️ Site and scripts: without virus code!
+✅ 100 % Clean source code!
+```
