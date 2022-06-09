@@ -35,11 +35,11 @@ Because:
 - You can show temperature chart
 - You also will have complete and original (without the serial number) s.m.a.r.t history of your disk(s) when sending s.m.a.r.t data to our api
 - Our script also checks the disks in hardware raid, which normally smartctl without scripting it first won´t do
-- And also you can get it working on windows, with the same things as above.
+- And also you can get it working on windows, with the same things as above
 - You contribute to our little community of disk fans who love s.m.a.r.t data, who love disks, who love to code things
 
 And finally and not lastly:
-- We are active coders.
+- We are active coders
 - Right now this is new addition: "Battle page for Power on hours": https://diskcheck.co/battle-power_on_hours
 ```
 
