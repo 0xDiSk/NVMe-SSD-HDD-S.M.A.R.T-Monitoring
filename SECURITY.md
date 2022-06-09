@@ -1,6 +1,6 @@
 # 🛡️ Security Policy
 
-## Supported Scripts
+## 💥 Supported Scripts
 
 Which scripts of your project are currently being supported with security updates and development?
 
