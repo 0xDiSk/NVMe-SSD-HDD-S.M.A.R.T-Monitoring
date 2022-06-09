@@ -1,8 +1,8 @@
 # Security Policy
 
-## Supported Versions
+## Supported Scripts
 
-Which versions of your project are currently being supported with security updates and development?
+Which scripts of your project are currently being supported with security updates and development?
 
 | Script | Supported?          |
 | ------- | ------------------ |
