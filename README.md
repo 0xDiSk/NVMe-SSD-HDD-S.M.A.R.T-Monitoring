@@ -1,6 +1,10 @@
 # 🛸 NVMe / 🚀 SSD / 🖴 HDD S.M.A.R.T Monitoring. 
 
-[![Codacy Security Scan](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml) [![DevSkim](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml)
+[![Git AntiVirus Scan](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/antivirus.scan.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/antivirus.scan.yml)
+[![Codacy Security Scan](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml/badge.svg?branch=main)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/codacy.yml) 
+[![DevSkim](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/devskim.yml)
+[![Test disk.lol for publicly known js vulnerabilities](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/vulnerability-check-disk.lol.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/vulnerability-check-disk.lol.yml)
+[![Test diskcheck.co for publicly known js vulnerabilities](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/vulnerability-check-diskcheck.co.yml/badge.svg)](https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/actions/workflows/vulnerability-check-diskcheck.co.yml)
 
 ```
 VirusTotal checked:
