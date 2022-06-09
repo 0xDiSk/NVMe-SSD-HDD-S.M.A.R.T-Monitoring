@@ -1,0 +1,2 @@
+- name: Git Anti Virus Scan
+  uses: djdefi/gitavscan@5
