@@ -1,4 +1,5 @@
 #!/bin/sh
+apt install automake
 git clone https://github.com/smartmontools/smartmontools.git
 cd smartmontools/smartmontools
 ./autogen.sh
