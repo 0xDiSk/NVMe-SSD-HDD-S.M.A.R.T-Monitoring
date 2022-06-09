@@ -106,8 +106,10 @@ diskcheck.co/verify-and-run.sh|https://www.virustotal.com/gui/url/986fb1ea6915e6
 github raw smart.sh|https://www.virustotal.com/gui/url/e1b74e82688c8190e9192c4699cbe6b9cc23c16b35fa49579918b0129ed82e75
 github raw smart-test.sh|https://www.virustotal.com/gui/url/f6110301df8cd009d04392e0a6aa04cce32857c8e8a51d5e851c10a029b08027
 github raw verify-and-run.sh|https://www.virustotal.com/gui/url/be6524676e2e8251f74db150e371b9db3d87a708fd7692eb715a221f5246eb5f
+github raw smartmontool-build.sh|https://www.virustotal.com/gui/url/f3bd481f1ab75abb9d8abc850c9b26008dcb6c4f16cf996baae6756ba803b0dc
 github raw README.md| https://www.virustotal.com/gui/url/62ae953bfb4c531fdcb7d268369ac610ade6a46209b84c153a54877dc18d018c
 github raw windows README.md|https://www.virustotal.com/gui/url/11097db574e0716a6df2dea9434b4ba0834a961d72864cb8b769b92ba7a75318
+github raw |https://www.virustotal.com/gui/url/11097db574e0716a6df2dea9434b4ba0834a961d72864cb8b769b92ba7a75318
 
 ***🛸 Optimized page speed:***
 |⚙️ Service|📄 Url to test|🌍 Tested from|🚀 Speed
