@@ -1,3 +1,5 @@
+name: Git AntiVirus Scan
+
 on: [push]
 
 jobs:
