@@ -1,0 +1,5 @@
+- name: FlawFinder Scan
+  uses: david-a-wheeler/flawfinder@2.0.19
+  with:
+    arguments: '--sarif ./'
+    output: 'flawfinder_results.sarif'
