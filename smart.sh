@@ -1,8 +1,8 @@
 #!/bin/sh
 
 if [ ! -e "/usr/bin/curl" ] || [ ! -e "/usr/sbin/smartctl" ]; then
-echo "[#ERROR] To run the S.M.A.R.T for your disk you will need to install smartmontool.\n"
-echo "[#ERROR] To send the S.M.A.R.T data to our api you will need to install curl.\n"
+echo "[#ERROR] To run the S.M.A.R.T for your disk you will need to install smartmontool."
+echo "[#ERROR] To send the S.M.A.R.T data to our api you will need to install curl."
 echo "[#INFO] Exiting script now."
 exit
 fi
