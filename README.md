@@ -93,7 +93,7 @@ wget -qO- https://diskcheck.co/verify-and-run.sh | md5sum | awk '{print $1}'
 |---|--:|
 smart.sh|3d2eb2f3516bc1b3eb2ba1357de9dc29
 smart-test.sh|6bc155992975d2a50046d0ad2cb6b7c4
-verify-and-run.sh|7ebd772a2e53b34dd59b026815513068
+verify-and-run.sh|0da3b307ef93d173b8d7f19effa294c5
 
 
 ***✅ Virus check:***
