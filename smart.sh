@@ -1,36 +1,10 @@
 #!/bin/sh
-if [ -f /etc/redhat-release ]; then
-release="centos"
-elif cat /etc/issue | grep -Eqi "debian"; then
-release="debian"
-elif cat /etc/issue | grep -Eqi "ubuntu"; then
-release="ubuntu"
-elif cat /etc/issue | grep -Eqi "centos|red hat|redhat"; then
-release="centos"
-elif cat /proc/version | grep -Eqi "debian"; then
-release="debian"
-elif cat /proc/version | grep -Eqi "ubuntu"; then
-release="ubuntu"
-elif cat /proc/version | grep -Eqi "centos|red hat|redhat"; then
-release="centos"
-fi
 
-if  [ ! -e '/usr/bin/curl' ]; then
-echo " Installing curl ..."
-if [ "${release}" == "centos" ]; then
-yum -y install curl > /dev/null 2>&1
-else
-apt-get -y install curl > /dev/null 2>&1
-fi
-fi
-
-if  [ ! -e '/usr/sbin/smartctl' ]; then
-echo " Installing smartmontools - smartctl..."
-if [ "${release}" == "centos" ]; then
-yum -y install smartmontools > /dev/null 2>&1
-else
-apt-get -y install smartmontools > /dev/null 2>&1
-fi
+if [ ! -e "/usr/bin/curl" ] || [ ! -e "/usr/sbin/smartctl" ]; then
+echo "[#ERROR] To run the S.M.A.R.T for your disk will need to install smartmontool.\n"
+echo "[#ERROR] To send the S.M.A.R.T data to our api you will need to install curl.\n"
+echo "[#INFO] Exiting script now."
+exit
 fi
 
 for disk in $(smartctl --scan|cut -d ' ' -f1) ; do
