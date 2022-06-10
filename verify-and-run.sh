@@ -1,7 +1,7 @@
 #!/bin/sh
-hash="6f13a4451a197739153fd804629f60b5"
+hash="3d2eb2f3516bc1b3eb2ba1357de9dc29"
 disk="wget -qO- https://diskcheck.co/"
-hash_github="6f13a4451a197739153fd804629f60b5"
+hash_github="3d2eb2f3516bc1b3eb2ba1357de9dc29"
 disk_github="wget -qO- https://raw.githubusercontent.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring/main/README.md"
 
 if [ ! -e "/usr/bin/wget" ]; then
