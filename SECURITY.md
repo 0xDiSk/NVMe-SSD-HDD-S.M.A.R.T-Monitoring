@@ -9,7 +9,6 @@ Which scripts of your project are currently being supported with security update
 | smart.sh | :white_check_mark: |
 | smart-test.sh | :white_check_mark: |
 | verify-and-run.sh | :white_check_mark: |
-| smartmontools-build.sh | :white_check_mark: |
 
 ## 🔗 Owned domains
 
