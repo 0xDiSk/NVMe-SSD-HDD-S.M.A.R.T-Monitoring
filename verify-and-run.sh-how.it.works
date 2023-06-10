@@ -8,7 +8,7 @@ verify-and-run.sh
 |--> Check & Verify & Run smart.sh script
      |        
      |-|--> If the hash of script.sh is the same as defined in script verify-and-run.sh
-     |-|--> If the hashes on diskcheck.co and github.com sites are the same as defined in script verify-and-run.sh
+     |-|--> If the hashes on diskcheck.monster and github.com sites are the same as defined in script verify-and-run.sh
      | |
      | |--> Verification of script was successful
      |      |
@@ -21,10 +21,10 @@ verify-and-run.sh
      | 	         |--> No
      |                |
      | 	  	      |--> Error: script smart.sh missing.
-     |                     Please download manually smart.sh script (file must be named as smart.sh) - https://diskcheck.co/smart.sh
+     |                     Please download manually smart.sh script (file must be named as smart.sh) - https://diskcheck.monster/smart.sh
      | 				   
      |
      |--> Verification of script failed
 	  |
 	  | --> Error: Verification of script failed - update your script.
-	        Please download manually smart.sh script - https://diskcheck.co/smart.sh
+	        Please download manually smart.sh script - https://diskcheck.monster/smart.sh
