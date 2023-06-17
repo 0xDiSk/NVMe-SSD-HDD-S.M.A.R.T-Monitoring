@@ -16,8 +16,7 @@ Which domain names do you currently own?
 
 | 🌍 Domain | ❓ Own?          |
 | ------- | ------------------ |
-| disk.lol | :white_check_mark: |
-| diskcheck.co | :white_check_mark: |
+| diskcheck.monster | :white_check_mark: |
 
 ## ⚠️ Is your code and site clean without viruses and malwares?
 ```
