@@ -91,10 +91,10 @@ verify-and-run.sh|a17e97df728ab03d4c5971759921203f
 
 |⚙️ Script or Site|📄 Url to verify|
 |---|--:|
-diskcheck.0xc0d3.cc|https://www.virustotal.com/gui/url/84d9caef363d9b494ced0ad8f99f86ff34db7dac75488b86d0e30ca65ca29d49
-diskcheck.0xc0d3.cc/smart.sh|https://www.virustotal.com/gui/url/56ec5548a94245caded3c62b797ca1f05c174eea71a4b924ced7c0c4e1054c8a
-diskcheck.0xc0d3.cc/smart-test.sh|https://www.virustotal.com/gui/url/3d8b4a8e8b869d33a2d28d4b6063dad16c0d546edfdea5bdbbcbdfb19ad91f3e
-diskcheck.0xc0d3.cc/verify-and-run.sh|https://www.virustotal.com/gui/url/986fb1ea6915e6fd5b1cad0b940f65517d491f5d52d5176ceb63862fc6486fd7
+diskcheck.0xc0d3.cc|https://www.virustotal.com/gui/url/c5891faeb85f4aec7bcb00a531cc25a46f687702cf12493523a9b98f9cf257c4
+diskcheck.0xc0d3.cc/smart.sh|https://www.virustotal.com/gui/url/3b5ab319a8a25e3ead72545fed6dfd354cfdb7abd69c4ce63a0ce51b82796cbb
+diskcheck.0xc0d3.cc/smart-test.sh|https://www.virustotal.com/gui/url/b5bd25e07bc8d38547868fae0eac5105f4e34eb9ea53a5af36502017555706b1
+diskcheck.0xc0d3.cc/verify-and-run.sh|https://www.virustotal.com/gui/url/2d4407ec8e8f55eb01824eb45b648b8f91addf7f694507260ba93c426bf63011
 github raw smart.sh|https://www.virustotal.com/gui/url/e1b74e82688c8190e9192c4699cbe6b9cc23c16b35fa49579918b0129ed82e75
 github raw smart-test.sh|https://www.virustotal.com/gui/url/f6110301df8cd009d04392e0a6aa04cce32857c8e8a51d5e851c10a029b08027
 github raw verify-and-run.sh|https://www.virustotal.com/gui/url/be6524676e2e8251f74db150e371b9db3d87a708fd7692eb715a221f5246eb5f
