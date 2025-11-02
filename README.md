@@ -83,9 +83,9 @@ wget -qO- https://diskcheck.0xc0d3.cc/verify-and-run.sh | md5sum | awk '{print $
 
 |⚙️ Script|#️⃣ Hash|
 |---|--:|
-smart.sh|d300e269f1c9b6df241ac14d3d5e9954
+smart.sh|98c93ad3e4e5e07e782033ac478ad096
 smart-test.sh|6bc155992975d2a50046d0ad2cb6b7c4
-verify-and-run.sh|f8e4f9d308312658016a3d5ad4dc1c34
+verify-and-run.sh|a17e97df728ab03d4c5971759921203f
 
 
 ***✅ Virus check:***
