@@ -60,7 +60,7 @@ Windows:
 @Zappie at https://lowendtalk.com/profile/Zappie| Pointing out and helping out with megaraid and serveraid hardware raid test.
 @Everyone| Everyone who tests the scripts and site.
 
-***❓ Why disk.lol domain name and extension?***
+***❓ Why diskcheck.0xc0d3.cc domain name and extension?***
 Well it was simple for us. The domain name is short. The domain name was relative cheap. The domain name has domain info privacy.
 
 ***❓ Does it works?***
@@ -108,7 +108,7 @@ github raw windows README.md|https://www.virustotal.com/gui/url/11097db574e0716a
 Pingdom|https://tools.pingdom.com/#66912c4afbc00000|DE
 PageSpeed|https://pagespeed.web.dev/analysis/https-diskcheck-0xc0d3-cc/0g85dn532x?form_factor=desktop|?
 
-***⛔ Is your site disk.lol blacklisted?***
+***⛔ Is your site diskcheck.0xc0d3.cc blacklisted?***
 |⚙️ Service|📄 Url to test|❓ Blacklisted|❓ 100% Clean - NOT Blacklisted
 |---|---|---|--:|
 MultiRBL|https://multirbl.valli.org/lookup/diskcheck.0xc0d3.cc.html|❌|✅
@@ -118,10 +118,10 @@ MXToolBox|https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3adiskcheck.0xc0
 ***💾 Archived scripts and sites:***
 |⚙️ Service|📄 Url|⚙️ Script or Site
 |---|---|--:|
-WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/](https://web.archive.org/web/*/https://disk.lol/)|disk.lol
-WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/smart.sh](https://web.archive.org/web/*/https://disk.lol/smart.sh)|disk.lol/smart.sh
-WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/smart-test.sh](https://web.archive.org/web/*/https://disk.lol/smart-test.sh)|disk.lol/smart-test.sh
-WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/verify-and-run.sh](https://web.archive.org/web/*/https://disk.lol/verify-and-run.sh)|disk.lol/verify-and-run.sh
+WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/](https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/)|diskcheck.0xc0d3.cc
+WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/smart.sh](https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/smart.sh)|diskcheck.0xc0d3.cc/smart.sh
+WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/smart-test.sh](https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/smart-test.sh)|diskcheck.0xc0d3.cc/smart-test.sh
+WayBack Machine|[https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/verify-and-run.sh](https://web.archive.org/web/*/https://diskcheck.0xc0d3.cc/verify-and-run.sh)|diskcheck.0xc0d3.cc/verify-and-run.sh
 Archive.Today|https://archive.ph/diskcheck.0xc0d3.cc|diskcheck.0xc0d3.cc
 Archive.Today|https://archive.ph/Cgkgz|diskcheck.0xc0d3.cc/smart.sh
 Archive.Today|https://archive.ph/TP1hl|diskcheck.0xc0d3.cc/smart-test.sh
